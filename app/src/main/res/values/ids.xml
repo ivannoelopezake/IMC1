@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="campo_Peso" type="id" />
+    <item name="boton_limpiar" type="id" />
+    <item name="texto_imc" type="id" />
+</resources>
